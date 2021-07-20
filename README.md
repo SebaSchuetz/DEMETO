@@ -1,4 +1,4 @@
-# DEMETO
+# DEMETO - Dryer system
 European Union’s Horizon 2020 research and innovation programme, No 768573, project DEMETO
 
 This repository was created to share datas and codes used into the paper:
