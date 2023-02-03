@@ -3,7 +3,7 @@ European Union’s Horizon 2020 research and innovation programme, No 768573, pr
 
 This repository was created to share datas and codes used into the paper:
  - **Title:** "Microwave cavity design and optimisation for a homogeneous and faster drying process inside an industrial agitated nutsche filter", 
- - **Authors:** Sebastiano Schütz, Mauro Di Domenico, Matthieu Jaccard, 
+ - **Authors:** Sebastiano Schütz, Mauro Di Domenico, Matthieu Jaccard, Samuel Poretti, Ricardo Monleone
  - **Company:** SUPSI - Department of Innovative Technologies (DTI), Institute for Systems and Applied Electronics (ISEA), Lugano, Ticino, 6900, Switzerland
  - **Corresponding author:** Sebastiano Schuetz (sebastiano.schuetz@suspsi.ch)
  - **URL:** https://www.supsi.ch/isea_en.html
