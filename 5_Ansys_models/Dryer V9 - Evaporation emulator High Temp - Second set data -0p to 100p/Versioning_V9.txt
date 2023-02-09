@@ -1,0 +1,10 @@
+Versioning:
+Model with constant mixture volume setup WG on the top with
+best geometry -> Evaluation of Drying effect
+
+Same model as V7 but we use dieletric constant at 90°C
+
+Uguale al V9 ma con dati del secondo set di misura dal 0% al 100%
+* V9.1:
+Simulazione con cambio altezza mixture simulando essicazione e 
+adattamento di Er e tanD per ogni nuova concentrazione a 90°C.
