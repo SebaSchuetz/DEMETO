@@ -17,6 +17,7 @@ This project is organised into 4 Spyder (Python) projects:
 * **2_Mixture_permettivity_30C_measurements:** contains the Python script that loads all *laboratory-measure.prn* databases and plots the measured permettivity of the DEMETO mixture for a constant temperature of 30°C and some change of water concentration (0% - 100%). The results of the elaboration are also saved as *picture.jpg* format.
 * **3_Mixture_permettivity_30C-90C_measurements:** contains the Python script that loads all *laboratory-measure.prn*  databases and plots the measured permettivity of the DEMETO mixture for temperature of 30°C to 90C and some change of water concentration (0% - 100%). The results of the elaboration are also saved as *picture.jpg* format.
 * **4_Mixture_vloss_heating_effect_measurements:** contains the Python script that loads all *Ansys-HFSS-simulation-results.tab* databases and plots the vloss (heating efficiency) of the microwave cavity during the process of drying the mixture. The results of the elaboration are also saved as *picture.jpg* format.
+* **5_Ansys models:** It contain all model that has been used for the analysis of the resonant mode, blender effect, preheating effect and the evaporation effect
 
 
 ## Database description:
