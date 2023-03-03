@@ -49,7 +49,6 @@ For every concentration and temperature a *Ansys-HFSS-simulation-results.tab* wa
   * *Row 2:* 70	0.83129855572956
   * *Row n:* ... ... 
   
-###LICENSE 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Questa opera è sotto 
